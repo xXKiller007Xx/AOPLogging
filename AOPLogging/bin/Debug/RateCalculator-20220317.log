@@ -1,0 +1,17 @@
+2022-03-17 22:55:40.423 +07:00 [Information] Call: AOPLogging.IRateCalculator.Calculate
+2022-03-17 22:55:40.445 +07:00 [Information] Args: 100000000,0,312,0,85
+2022-03-17 22:55:40.446 +07:00 [Information] Done: result was 73666,67
+2022-03-17 22:55:40.446 +07:00 [Information] Call: AOPLogging.IRateCalculator.Calculate
+2022-03-17 22:55:40.446 +07:00 [Information] Args: 100000000,0,32078,0,91
+2022-03-17 22:55:40.446 +07:00 [Information] Done: result was 81086,06
+2022-03-17 22:55:40.447 +07:00 [Information] Call: AOPLogging.IRateCalculator.Calculate
+2022-03-17 22:55:40.447 +07:00 [Information] Args: 100000000,0,31115,0,92
+2022-03-17 22:55:40.482 +07:00 [Information] Done: result was 79516,11
+2022-03-17 22:55:40.483 +07:00 [Information] Call: AOPLogging.IRateCalculator.Calculate
+2022-03-17 22:55:40.483 +07:00 [Information] Args: 100000000,0,0,92
+2022-03-17 22:55:40.483 +07:00 [Warning] Rate is Zero
+2022-03-17 22:55:40.483 +07:00 [Information] Done: result was Zero
+2022-03-17 22:55:40.483 +07:00 [Information] Call: AOPLogging.IRateCalculator.Calculate
+2022-03-17 22:55:40.483 +07:00 [Information] Args: 100000000,0,0,0
+2022-03-17 22:55:40.483 +07:00 [Warning] Rate is Zero
+2022-03-17 22:55:40.539 +07:00 [Error] Days can't be Zero
